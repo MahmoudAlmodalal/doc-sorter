@@ -1,5 +1,4 @@
 
-```markdown
 # Document Organizer
 
 A Python script that searches for document files across different storage locations and organizes them by file type in a specified directory.
@@ -30,7 +29,6 @@ A Python script that searches for document files across different storage locati
    Example:
    ```
    Enter the path to save data: /storage/emulated/0/Documents
-   ```
 
 The script will:
 - Create a "documents" directory at your specified path
@@ -73,13 +71,3 @@ This script will access filesystem-wide locations. Ensure you:
 - Have proper permissions
 - Understand it will copy (not move) files
 - Review the info.txt log after execution
-```
-
-This README provides:
-1. Clear purpose description
-2. Usage instructions
-3. Expected output structure
-4. Important notes about functionality
-5. Appropriate warnings
-
-You may want to adjust the "Requirements" section based on any specific dependencies your script needs, or add installation instructions if this becomes part of a larger package.
